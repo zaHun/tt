@@ -6,4 +6,4 @@ function syntaxHighlight(code, lang) {
 }
 ~~~  
 
-github 에는 'System.out.println("Hello Git")'
+github 에는 ~System.out.println("Hello Git")~
