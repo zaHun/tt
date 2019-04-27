@@ -1,5 +1,1 @@
-'''python
-def Func():
-  print("Hello")
-  return 0
-'''
+[GitHub](http://github.com "go to Git")
