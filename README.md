@@ -1,2 +1,6 @@
 [GitHub](http://github.com "go to Git")
-[[WIKI|HOME]]
+\'python
+def func():
+  print("Hello Func")
+
+\'
