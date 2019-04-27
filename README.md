@@ -6,4 +6,5 @@ function syntaxHighlight(code, lang) {
 }
 ~~~
 
-[![예제](http://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)](https://youtu.be/RlQEoJaLQRA?t=0s) 
+[![예제](http://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)](https://youtu.be/RlQEoJaLQRA?t=0s)
+[[WIKI](HOME)]
