@@ -5,5 +5,10 @@ function syntaxHighlight(code, lang) {
    var bar = 33;
 }
 ~~~  
-
-<https://github.com>
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| :------------------- | :------------------: |:---------------:|
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
